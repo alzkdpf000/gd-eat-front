@@ -6,11 +6,12 @@
 ---
 
 ## 🎯 기획 의도
-<img width="722" height="517" alt="스크린샷 2025-10-21 오후 2 45 46" src="https://github.com/user-attachments/assets/ebc3b8d6-1e02-491d-aeb0-0895a120bf8d" />
-<img width="733" height="419" alt="스크린샷 2025-10-21 오후 2 45 34" src="https://github.com/user-attachments/assets/26338459-9f9b-4b6f-9206-13fc6d20cae5" />
+<img width="722" height="517" alt="스크린샷 2025-10-21 오후 2 45 46" src="https://github.com/user-attachments/assets/ebc3b8d6-1e02-491d-aeb0-0895a120bf8d"/>
+<img width="733" height="419" alt="스크린샷 2025-10-21 오후 2 45 34" src="https://github.com/user-attachments/assets/26338459-9f9b-4b6f-9206-13fc6d20cae5"/>
 
 1인 가구가 증가하면서 **1인 가구 소포장 상품 구매율 증가, 1인 가구 음식물 쓰레기 증가** 등 음식 관련 문제점들이 점차 늘어난다는 것을 파악했습니다. 이런 문제 해결을 위해 소량 판매를 시작으로 소비자들이 필요한 만큼만
 구매함으로 음식물 쓰레기 및 배달 비용 줄일 수 있는 **공동 소비 기반 식재료 쇼핑 플래폿**을 기획하여 1인 가구가 식재료 비용을 더 아낄 수 있다라는 생각으로 기획했습니다.
+
 ---
 
 ## 💡 기대 효과
@@ -24,18 +25,19 @@
 ---
 
 ## 🧰 프로젝트 사용 툴
-- **Frontend:** Html, JavaScript, Css, TymeLeaf
-- **Backend:** Spring Boot, Java  
+- **Frontend:** Html, JavaScript, Css, Tymeleaf
+- **Backend:** Spring Boot, Java, Lombok, JSON
 - **Database:** MySQL, MyBatis  
 - **Infra:** AWS EC2  
-- **Tool:** VsCode,IntelliJ IDEA
-- **API:** Kakao Login, Kakao Map, Kakao 주소, SMTP Gmail API, Boot Pay API, REST API
-- **기타:** GitHub, Slack  
+- **Tool:** VsCode,IntelliJ IDEA, DBeaver
+- **API:** Kakao Login, Kakao 주소, Boot Pay API, REST API
+- **기타:** GitHub, Slack, Junit, PostMan
 
 ---
 
 ## 🗂 ERD (Entity Relationship Diagram)
 
+<img width="5238" height="5940" alt="image" src="https://github.com/user-attachments/assets/c07b37e7-be2d-4a2d-8a28-59be0fc37171" />
 
 
 ---
