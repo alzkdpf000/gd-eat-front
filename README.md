@@ -31,7 +31,7 @@
 - **Infra:** AWS EC2  
 - **Tool:** VsCode,IntelliJ IDEA, DBeaver
 - **API:** Kakao Login, Kakao 주소, Boot Pay API, REST API
-- **기타:** GitHub, Slack, Junit, PostMan
+- **기타:** Git, GitHub, Slack, Junit, PostMan
 
 ---
 
