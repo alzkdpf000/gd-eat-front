@@ -25,7 +25,7 @@
 ---
 
 ## 🧰 프로젝트 사용 툴
-- **HTML Engine:** Tymeleaf
+- **HTML Engine:** Thymeleaf
 - **Frontend:** Html, JavaScript, Css
 - **Backend:** Spring Boot, Java, 
 - **Database:** MySQL, MyBatis  
